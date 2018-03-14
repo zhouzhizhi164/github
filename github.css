@@ -270,3 +270,163 @@ button+p{
   font-size: 12px;
   color: #6a737d;
 }
+
+.page2 h6{
+  color:rgb(88,96,105);
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  margin-bottom: 0;
+  margin-top: 0px;
+  text-align: center;
+  width: 980px;
+  line-height: 24px;
+}
+
+.page2 h2{
+  color: rgb(36,41,46);
+  font-size: 54px;
+  font-weight: 300;
+  height: 67px;
+  line-height: 67.5px;
+  width: 980px;
+  text-align: center;
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.page2-top-text{
+  color: rgb(88,96,105);
+  font-size: 20px;
+  font-weight: 300;
+  height: 60px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  margin-top: 0px;
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+  width: 67.66667%;
+}
+
+.page2-top{
+  height: 291px;
+  padding-left:16px;
+  padding-right:16px;
+  padding-bottom:40px;
+  max-width: 1012px;
+  width: 1012px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page2-button{
+  height:46px;
+  width:980px;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page2-button a{
+  background-color:rgb(255,255,255);
+  border:1px solid rgba(27,31,35,0.2);
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  height: 46px;
+  line-height:20px;
+  padding: 12px 20px;
+  position: relative;
+  text-align: center;
+  text-decoration-color: rgb(3,102,214);
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  white-space: normal;
+}
+
+img{
+  width: 658px;
+  margin-left:0px;
+  margin-right:0px;
+  max-width: 100%;
+  height:611.438px;
+}
+
+.page2-middle-1{
+  height:611.438;
+  margin-bottom: 16px;
+  margin-left:40px;
+  margin-right:40px;
+  width: 53.3333%;
+}
+
+.page2-middle-2-text{
+  color:rgb(36,41,46);
+  font-size:14px;
+  height:121px;
+  line-height:21px;
+  word-wrap:break-word;
+  width: 83.33333%;
+}
+
+.page2-middle-2-text h3{
+  font-size:22px;
+  font-weight:400;
+  height:33px;
+  line-height:33px;
+  margin-bottom:4px;
+  margin-top:0px;
+  width:349.984;
+}
+
+.page2-middle-2-text p{
+  font-size:14px;
+  height:84;
+  line-height:21px;
+  margin-bottom:0px;
+  margin-top:0px;
+  width:349.984px;
+}
+
+p>span{
+  color:rgb(3,102,214);
+}
+
+.page2-middle-2-box{
+  justify-content: space-between;
+  margin-bottom:0px;
+  margin-top:0px;
+  padding:24px;
+  width:470px;
+  height:171px;
+}
+
+.page2-middle-2{
+  height:627.438px;
+  width:41.66667%;
+}
+
+.page2-middle-container{
+  display: flex;
+  height: 689.125px;
+  width:1248px;
+  position: relative;
+  padding-top:40px;
+}
+
+.page2-middle{
+  height: 689.125px;
+  width:1280px;
+  margin-left:45px;
+  margin-right:45px;
+  max-width:1280px;
+  padding-left:16px;
+  padding-right:16px;
+}
+
+.page2{
+  height: 1140.12px;
+  padding-top:80px;
+  padding-bottom:80px;
+}
